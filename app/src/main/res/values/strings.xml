@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZhiyayaAndroidApplication</string>
+
+    <string name="app_dialog_loading">Waiting for loading &#8230;</string>
+
+    <string name="app_dialog_cancel">Cancel</string>
+    <string name="app_dialog_ok">OK</string>
+    <string name="app_dialog_retry_msg">Request Fail！</string>
+    <string name="app_dialog_retry_positive_btn">Retry</string>
+    <string name="app_dialog_title_tips">For tips</string>
+    <string name="app_request_error">please try again later</string>
+
+</resources>

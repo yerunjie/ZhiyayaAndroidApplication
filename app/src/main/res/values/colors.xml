@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- common -->
+    <color name="common_bg">#efefef</color>
+    <color name="common_gray_light">#f7f7f8</color>
+    <color name="common_line_grey">#dcdcdc</color>
+    <color name="common_line_item_grey">#c1c1c1</color>
+    <color name="common_tip_bg">#fffbe8</color>
+    <color name="common_divide_line">#dcdcdc</color>
+    <color name="common_white">#ffffff</color>
+    <color name="common_black">#333333</color>
+    <color name="common_red">#ea5505</color>
+    <!-- text -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_tertiary">#999999</color>
+    <color name="text_disable">#999999</color>
+    <color name="text_hint">#c1c1c1</color>
+    <color name="text_tips">#ea5505</color>
+    <color name="text_red">#f66b6b</color>
+    <color name="text_golden">#d7ac62</color>
+    <!-- button -->
+    <color name="button_bg_white">#e5ffffff</color>
+    <color name="button_gray">#999999</color>
+    <color name="button_red">#f66b6b</color>
+
+    <!-- list -->
+    <color name="list_item_bg">#ffffff</color>
+
+    <!-- 定义颜色-->
+    <color name="black">#000000</color>
+    <color name="red">#ffd93e3d</color>
+    <color name="green">#ff28713f</color>
+    <color name="blue">#ff0000ff</color>
+</resources>
